@@ -1,0 +1,3 @@
+[submodule "neuralart"]
+	path = neuralart
+	url = https://huggingface.co/spaces/Adijain09/neuralart
